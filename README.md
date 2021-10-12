@@ -20,3 +20,5 @@ HEFFmpegTools.runCmd(transformCmd) { (result) in
     }
 }
 ```
+
+具体生成过程请看这里：[简书](https://www.jianshu.com/p/67348e253787)
